@@ -6,7 +6,7 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
-        "155": {
+    "155": {
       "api": "ttps://155api.com/api.php/provide/vod",
       "name": "155采集",
     },
